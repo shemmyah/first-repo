@@ -2,3 +2,5 @@
 
 ##updating
 ##shem
+cloning
+updating from remote
